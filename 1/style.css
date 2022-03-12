@@ -1,0 +1,25 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+} */
+
+header{
+    height: 100px;
+    width: 1000px;
+    border: 2px solid yellow;
+    
+}
+
+div#firstdiv{
+  border: 2px solid green;
+  display: flex;
+  justify-content: space-around;
+}
+
+div ul{
+  display: flex;
+
+}
+
+
